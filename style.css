@@ -31,15 +31,17 @@ body {
     text-align: center;
 }
 
+.stitle {
+    color: rgb(255,135,255);
+    font-size: 25px;
+    font-family: monospace;
+    text-align: center;
+}
+
 .description {
     color: rgb(255,135,255);
     font-size: 17px;
     font-family: monospace;
     text-align: center;
 
-}
-
-span {
-    color: #fff;
-    text-shadow: .2px .2px #474747;
 }
