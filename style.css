@@ -10,7 +10,7 @@ body {
 }
 
 .separator {
-    color: #fff;
+    color: rgb(255,135,255);
     font-size: 16px;
     font-family: monospace;
     text-align: center;
@@ -22,7 +22,13 @@ body {
     font-family: monospace;
     text-align: center;
     padding-top: 1vh;
-    z-index: 1;
+}
+
+.secondtitle {
+    color: rgb(255,135,255);
+    font-size: 25px;
+    font-family: monospace;
+    text-align: center;
 }
 
 .description {
@@ -30,31 +36,10 @@ body {
     font-size: 17px;
     font-family: monospace;
     text-align: center;
-    padding-top: 1vh;
-    z-index: 1;
+
 }
 
 span {
     color: #fff;
-    text-shadow: .5px .5px #000000;
-}
-
-a {
-    color: #fff;
-    text-decoration: none;
-    font-family: monospace;
-    font-size: 13px;
-    padding: 5px;
-}
-
-a:hover {
-    color: rgb(255,135,255);
-    text-decoration: underline;
-}
-
-ul {
-    list-style: none;
-    padding: 5px;
-    margin-top: 0px;
-    text-align: center;
+    text-shadow: .2px .2px #474747;
 }
