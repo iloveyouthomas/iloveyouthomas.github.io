@@ -9,9 +9,9 @@ body {
     text-align: center;
 }
 
-.separator {
+.highlight {
     color: rgb(255,135,255);
-    font-size: 16px;
+    font-size: 12px;
     font-family: monospace;
     text-align: center;
 }
@@ -24,24 +24,9 @@ body {
     padding-top: 1vh;
 }
 
-.secondtitle {
+.separator {
     color: rgb(255,135,255);
-    font-size: 25px;
+    font-size: 20px;
     font-family: monospace;
     text-align: center;
-}
-
-.stitle {
-    color: rgb(255,135,255);
-    font-size: 25px;
-    font-family: monospace;
-    text-align: center;
-}
-
-.description {
-    color: rgb(255,135,255);
-    font-size: 17px;
-    font-family: monospace;
-    text-align: center;
-
 }
